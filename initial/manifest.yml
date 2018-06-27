@@ -3,5 +3,5 @@ applications:
 - name: reactive
   memory: 1G
   random-route: true
-  path: target/gs-reactive-rest-service-0.1.0.jar
+  path: target/spring-reactive-bigtable-0.1.0.jar
 
